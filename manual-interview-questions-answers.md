@@ -504,41 +504,41 @@ The moderator (or review leader) leads the review process. He or she determines,
 
 Learn More about Review process in Video Tutorial here
 
-97. What is an equivalence partition (also known as an equivalence class)?
-An input or output ranges of values such that only one value in the range becomes a test case.
+## 97. What is an equivalence partition (also known as an equivalence class)?
+**Ans** An input or output ranges of values such that only one value in the range becomes a test case.
 
-98. When should configuration management procedures be implemented?
-During test planning.
+## 98. When should configuration management procedures be implemented?
+**Ans** During test planning.
 
-99. A Type of Functional Testing, which investigates the functions relating to the detection of threats, such as virus from malicious outsiders?
-Security Testing
+## 99. A Type of Functional Testing, which investigates the functions relating to the detection of threats, such as virus from malicious outsiders?
+**Ans** Security Testing
 
-100. Testing wherein we subject the target of the test, to varying workloads to measure and evaluate the performance behaviors and the ability of the target and the test to continue to function properly under these different workloads?
-Load Testing
+## 100. Testing wherein we subject the target of the test, to varying workloads to measure and evaluate the performance behaviors and the ability of the target and the test to continue to function properly under these different workloads?
+**Ans** Load Testing
 
-101. Testing activity which is performed to expose defects in the interfaces and in the interaction between integrated components is?
-Integration Level Testing
+## 101. Testing activity which is performed to expose defects in the interfaces and in the interaction between integrated components is?
+**Ans** Integration Level Testing
 
-102. What are the Structure-based (white-box) testing techniques?
-Structure-based testing techniques (which are also dynamic rather than static) use the internal structure of the software to derive test cases. They are commonly called ‘white-box’ or ‘glass-box’ techniques (implying you can see into the system) since they require knowledge of how the software is implemented, that is, how it works. For example, a structural technique may be concerned with exercising loops in the software. Different test cases may be derived to exercise the loop once, twice, and many times. This may be done regardless of the functionality of the software.
+## 102. What are the Structure-based (white-box) testing techniques?
+**Ans** Structure-based testing techniques (which are also dynamic rather than static) use the internal structure of the software to derive test cases. They are commonly called ‘white-box’ or ‘glass-box’ techniques (implying you can see into the system) since they require knowledge of how the software is implemented, that is, how it works. For example, a structural technique may be concerned with exercising loops in the software. Different test cases may be derived to exercise the loop once, twice, and many times. This may be done regardless of the functionality of the software.
 
-103. When should “Regression Testing” be performed?
-After the software has changed or when the environment has changed Regression testing should be performed.
+## 103. When should “Regression Testing” be performed?
+**Ans** After the software has changed or when the environment has changed Regression testing should be performed.
 
-104. What is negative and positive testing?
-A negative test is when you put in an invalid input and receives errors. While positive testing is when you put in a valid input and expect some action to be completed in accordance with the specification.
+## 104. What is negative and positive testing?
+**Ans** A negative test is when you put in an invalid input and receives errors. While positive testing is when you put in a valid input and expect some action to be completed in accordance with the specification.
 
-105. What is the purpose of a test completion criterion?
-The purpose of test completion criterion is to determine when to stop testing
+## 105. What is the purpose of a test completion criterion?
+**Ans** The purpose of test completion criterion is to determine when to stop testing
 
-106. What can static analysis NOT find?
-For example memory leaks.
+## 106. What can static analysis NOT find?
+**Ans** For example memory leaks.
 
-107. What is the difference between re-testing and regression testing?
-Re-testing ensures the original fault has been removed; regression testing looks for unexpected side effects.
+## 107. What is the difference between re-testing and regression testing?
+**Ans** Re-testing ensures the original fault has been removed; regression testing looks for unexpected side effects.
 
-108. What are the Experience-based testing techniques?
-In experience-based techniques, people’s knowledge, skills, and background are a prime contributor to the test conditions and test cases. The experience of both technical and business people is important, as they bring different perspectives to the test analysis and design process. Due to previous experience with similar systems, they may have insights into what could go wrong, which is very useful for testing.
+## 108. What are the Experience-based testing techniques?
+**Ans** In experience-based techniques, people’s knowledge, skills, and background are a prime contributor to the test conditions and test cases. The experience of both technical and business people is important, as they bring different perspectives to the test analysis and design process. Due to previous experience with similar systems, they may have insights into what could go wrong, which is very useful for testing.
 
 ## 109. What type of review requires formal entry and exit criteria, including metrics?
 **Ans** Inspection
