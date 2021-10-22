@@ -540,28 +540,28 @@ Re-testing ensures the original fault has been removed; regression testing looks
 108. What are the Experience-based testing techniques?
 In experience-based techniques, people’s knowledge, skills, and background are a prime contributor to the test conditions and test cases. The experience of both technical and business people is important, as they bring different perspectives to the test analysis and design process. Due to previous experience with similar systems, they may have insights into what could go wrong, which is very useful for testing.
 
-109. What type of review requires formal entry and exit criteria, including metrics?
-Inspection
+## 109. What type of review requires formal entry and exit criteria, including metrics?
+**Ans** Inspection
 
-110. Could reviews or inspections be considered part of testing?
-Yes, because both help detects faults and improves quality.
+## 110. Could reviews or inspections be considered part of testing?
+**Ans** Yes, because both help detects faults and improves quality.
 
 111. An input field takes the year of birth between 1900 and 2004 what the boundary values for testing this field are?
-1899,1900,2004,2005
+**Ans** 1899,1900,2004,2005
 
-112. Which of the following tools would be involved in the automation of regression test? a. Data tester b. Boundary tester c. Capture/Playback d. Output comparator.
-d. Output comparator
+## 112. Which of the following tools would be involved in the automation of regression test? a. Data tester b. Boundary tester c. Capture/Playback d. Output comparator.
+**Ans** Output comparator
 
-113. To test a function, what has to write a programmer, which calls the function to be tested and pass test data.
-Driver
+## 113. To test a function, what has to write a programmer, which calls the function to be tested and pass test data.
+**Ans** Driver
 
-114. What is the one Key reason why developers have difficulty testing their own work?
-Lack of Objectivity
+## 114. What is the one Key reason why developers have difficulty testing their own work?
+**Ans** Lack of Objectivity
 
-115. “How much testing is enough?”
-The answer depends on the risk for your industry, contract and special requirements.
+## 115. “How much testing is enough?”
+**Ans** The answer depends on the risk for your industry, contract and special requirements.
 
-116. When should testing be stopped?
+## 116. When should testing be stopped?
 It depends on the risks for the system being tested. There are some criteria based on which you can stop testing.
 
 Deadlines (Testing, Release)
@@ -570,13 +570,14 @@ Bug rate fall below a certain level
 Test cases completed with certain percentage passed
 Alpha or beta periods for testing ends
 Coverage of code, functionality or requirements are met to a specified point
-117. Which of the following is the primary purpose of the integration strategy for integration testing in the small?
-The primary purpose of the integration strategy is to specify which modules to combine when and how many at once.
 
-118. What are semi-random test cases?
-Semi-random test cases are nothing, but when we perform random test cases and do equivalence partitioning to those test cases, it removes redundant test cases, thus giving us semi-random test cases.
+## 117. Which of the following is the primary purpose of the integration strategy for integration testing in the small?
+**Ans** The primary purpose of the integration strategy is to specify which modules to combine when and how many at once.
 
-119. Given the following code, which statement is true about the minimum number of test cases required for full statement and branch coverage?
+## 118. What are semi-random test cases?
+**Ans** Semi-random test cases are nothing, but when we perform random test cases and do equivalence partitioning to those test cases, it removes redundant test cases, thus giving us semi-random test cases.
+
+## 119. Given the following code, which statement is true about the minimum number of test cases required for full statement and branch coverage?
 Read p
 
 Read q
@@ -595,74 +596,80 @@ ENDIF
 
 1 test for statement coverage, 2 for branch coverage
 
-120. Which review is normally used to evaluate a product to determine its suitability for the intended use and to identify discrepancies?
-Technical Review.
+## 120. Which review is normally used to evaluate a product to determine its suitability for the intended use and to identify discrepancies?
+**Ans** Technical Review.
 
-121. Faults found should be originally documented by whom?
-By testers.
+## 121. Faults found should be originally documented by whom?
+**Ans** By testers.
 
-122. Which is the current formal world-wide recognized documentation standard?
-There isn’t one.
+## 122. Which is the current formal world-wide recognized documentation standard?
+**Ans** There isn’t one.
 
-123. Which of the following is the review participant who has created the item to be reviewed?
-Author
+## 123. Which of the following is the review participant who has created the item to be reviewed?
+**Ans** Author
 
-124. A number of critical bugs are fixed in software. All the bugs are in one module, related to reports. The test manager decides to do regression testing only on the reports module.
-Regression testing should be done on other modules as well because fixing one module may affect other modules.
+## 124. A number of critical bugs are fixed in software. All the bugs are in one module, related to reports. The test manager decides to do regression testing only on the reports module.
+**Ans** Regression testing should be done on other modules as well because fixing one module may affect other modules.
 
-125. Why does the boundary value analysis provide good test cases?
-Because errors are frequently made during programming of the different cases near the ‘edges’ of the range of values.
+## 125. Why does the boundary value analysis provide good test cases?
+**Ans** Because errors are frequently made during programming of the different cases near the ‘edges’ of the range of values.
 
-126. What makes an inspection different from other review types?
-It is led by a trained leader, uses formal entry and exit criteria and checklists.
+## 126. What makes an inspection different from other review types?
+**Ans** It is led by a trained leader, uses formal entry and exit criteria and checklists.
 
-127. Why can be tester dependent on configuration management?
-Because configuration management assures that we know the exact version of the testware and the test object.
+## 127. Why can be tester dependent on configuration management?
+**Ans** Because configuration management assures that we know the exact version of the testware and the test object.
 
-128. What is V-Model?
-A software development model that illustrates how testing activities integrate with software development phases
+## 128. What is V-Model?
+**Ans** A software development model that illustrates how testing activities integrate with software development phases
 
-129. What is maintenance testing?
-Triggered by modifications, migration or retirement of existing software
+## 129. What is maintenance testing?
+**Ans** Triggered by modifications, migration or retirement of existing software
 
-130. What is test coverage?
-Test coverage measures in some specific way the amount of testing performed by a set of tests (derived in some other way, e.g., using specification-based techniques). Wherever we can count things and can tell whether or not each of those things has been tested by some test, then we can measure coverage.
+## 130. What is test coverage?
+**Ans** Test coverage measures in some specific way the amount of testing performed by a set of tests (derived in some other way, e.g., using specification-based techniques). Wherever we can count things and can tell whether or not each of those things has been tested by some test, then we can measure coverage.
 
-131. Why is incremental integration preferred over “big bang” integration?
-Because incremental integration has better early defects screening and isolation ability
+## 131. Why is incremental integration preferred over “big bang” integration?
+**Ans** Because incremental integration has better early defects screening and isolation ability
 
-132. What is called the process starting with the terminal modules?
-Bottom-up integration
+## 132. What is called the process starting with the terminal modules?
+**Ans** Bottom-up integration
+https://www.guru99.com/integration-testing.html
 
-133. During which test activity could fault be found most cost-effectively?
-During test planning
+## 133. During which test activity could fault be found most cost-effectively?
+**Ans** During test planning
 
-134. The purpose of the requirement phase is
-To freeze requirements, to understand user needs, to define the scope of testing
+## 134. The purpose of the requirement phase is
+**Ans** To freeze requirements, to understand user needs, to define the scope of testing
 
-135. Why we split testing into distinct stages?
-We split testing into distinct stages because of the following reasons,
+## 135. Why we split testing into distinct stages?
+**Ans** We split testing into distinct stages because of the following reasons,
 
 Each test stage has a different purpose
 It is easier to manage to test in stages
 We can run different test into different environments
 Performance and quality of the testing is improved using phased testing
-136. What is DRE?
-In order to measure test effectiveness, a powerful metric is used to measure test effectiveness known as DRE (Defect Removal Efficiency) From this metric we would know how many bugs we have found from the set of test cases. The formula for calculating DRE is
+
+## 136. What is DRE?
+**Ans** In order to measure test effectiveness, a powerful metric is used to measure test effectiveness known as DRE (Defect Removal Efficiency) From this metric we would know how many bugs we have found from the set of test cases. The formula for calculating DRE is
 
 DRE=Number of bugs while a testing/number of bugs while testing + number of bugs found by a user
 
-137. Which of the following is likely to benefit most from the use of test tools providing test capture and replay facilities? a) Regression testing b) Integration testing c) System testing d) User acceptance testing
-Regression testing
+**Defect Removal Efficiency (DRE)** allows the development team to eliminate bugs before release. DRE is calculated as the correlation of bugs detected internally (by testers and software testing) with the amount of bugs that were detected externally (by users).
 
-138. How would you estimate the amount of re-testing likely to be required?
-Metrics from previous similar projects and discussions with the development team
+DRE’s formula:  DRE= (Number of defects found internally/ Number of defects found internally + Number of defects found externally) × 100.
 
-139. What studies data flow analysis?
-The use of data on paths through the code.
+## 137. Which of the following is likely to benefit most from the use of test tools providing test capture and replay facilities? a) Regression testing b) Integration testing c) System testing d) User acceptance testing
+**Ans** Regression testing
 
-140. What is failure?
-Failure is a departure from specified behavior.
+## 138. How would you estimate the amount of re-testing likely to be required?
+**Ans** Metrics from previous similar projects, bugs got fixed and discussions with the development team
+
+## 139. What studies data flow analysis?
+**Ans** The use of data on paths through the code.
+
+## 140. What is failure?
+**Ans** Failure is a departure from specified behavior. Failure is occured in production.
 
 ## 141. What are Test comparators?
 **Ans** A test comparator helps to automate the comparison between the actual and the expected result produced by the software.
