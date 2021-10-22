@@ -694,29 +694,31 @@ V-Model
 150. Which technique can be used to achieve input and output coverage? It can be applied to human input, input via interfaces to a system, or interface parameters in integration testing.
 Equivalence partitioning
 
-151. “This life cycle model is driven by schedule and budget risks” This statement is best suited for.
-V-Model
+## 151. “This life cycle model is driven by schedule and budget risks” This statement is best suited for.
+**Ans:** V-Model
+![image](https://user-images.githubusercontent.com/10534266/138494336-fa0b3005-f474-46fd-ad39-e9c6f66ce213.png)
 
-152. In which order should tests be run?
-The most important one must be tested first
 
-153. The later in the development life cycle a fault is discovered, the more expensive it is to fix. Why?
-The fault has been built into more documentation, code, tests, etc
+## 152. In which order should tests be run?
+**Ans:** The most important one must be tested first
 
-154. What is Coverage measurement?
-It is a partial measure of test thoroughness.
+## 153. The later in the development life cycle a fault is discovered, the more expensive it is to fix. Why?
+**Ans:** The fault has been built into more documentation, code, tests, etc
 
-155. What is Boundary value testing?
-Test boundary conditions on, below and above the edges of input and output equivalence classes. For instance, let say a bank application where you can withdraw maximum Rs.20,000 and a minimum of Rs.100, so in boundary value testing we test only the exact boundaries, rather than hitting in the middle. That means we test above the maximum limit and below the minimum limit.
+## 154. What is Coverage measurement?
+**Ans:** It is a partial measure of test thoroughness.
 
-156. What does COTS represent?
-Commercial Off The Shelf.
+## 155. What is Boundary value testing?
+**Ans:** Boundary Value Analysis (BVA) is a Black-Box testing technique used to check the errors at the boundaries of an input domain. The name comes from the Boundary, which means the limits of an area. So, BVA mainly focuses on testing both valid and invalid input parameters for a given range of a software component For instance, let say a bank application where you can withdraw maximum Rs.20,000 and a minimum of Rs.100, so in boundary value testing we test only the exact boundaries, rather than hitting in the middle. That means we test above the maximum limit and below the minimum limit.
 
-157. The purpose of which is to allow specific tests to be carried out on a system or network that resembles as closely as possible the environment where the item under test will be used upon release?
-Test Environment
+## 156. What does COTS represent?
+**Ans:** Commercial Off The Shelf.
 
-158. What can be thought of as being based on the project plan, but with greater amounts of detail?
-Phase Test Plan
+## 157. The purpose of which is to allow specific tests to be carried out on a system or network that resembles as closely as possible the environment where the item under test will be used upon release?
+**Ans:**Test Environment
 
-159. What is Rapid Application Development?
-Rapid Application Development (RAD) is formally a parallel development of functions and subsequent integration. Components/functions are developed in parallel as if they were mini projects, the developments are time-boxed, delivered, and then assembled into a working prototype. This can very quickly give the customer something to see and use and to provide feedback regarding the delivery and their requirements. Rapid change and development of the product are possible using this methodology. However the product specification will need to be developed for the product at some point, and the project will need to be placed under more formal controls before going into production.
+## 158. What can be thought of as being based on the project plan, but with greater amounts of detail?
+**Ans:**Phase Test Plan
+
+## 159. What is Rapid Application Development?
+**Ans:** Rapid Application Development (RAD) is formally a parallel development of functions and subsequent integration. Components/functions are developed in parallel as if they were mini projects, the developments are time-boxed, delivered, and then assembled into a working prototype. This can very quickly give the customer something to see and use and to provide feedback regarding the delivery and their requirements. Rapid change and development of the product are possible using this methodology. However the product specification will need to be developed for the product at some point, and the project will need to be placed under more formal controls before going into production.
