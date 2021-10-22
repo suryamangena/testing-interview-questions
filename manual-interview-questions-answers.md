@@ -664,23 +664,28 @@ The use of data on paths through the code.
 140. What is failure?
 Failure is a departure from specified behavior.
 
-141. What are Test comparators?
-Is it really a test if you put some inputs into some software, but never look to see whether the software produces the correct result? The essence of testing is to check whether the software produces the correct result and to do that, and we must compare what the software produces to what it should produce. A test comparator helps to automate aspects of that comparison.
+## 141. What are Test comparators?
+**Ans** A test comparator helps to automate the comparison between the actual and the expected result produced by the software.
+There are two ways in which actual results of a test can be compared to the expected results for the test.:
 
-142. Who is responsible for document all the issues, problems and open point that were identified during the review meeting
-Scribe
+i. **Dynamic comparison** is where the comparison is done dynamically, i.e. while the test is executing. This type of comparison is good for comparing the wording of an error message that pops up on a screen with the correct wording for that error message. Dynamic comparison is useful when an actual result does not match the expected result in the middle of a test – the tool can be programmed to take some recovery action at this point or go to a different set of tests.
 
-143. What is the main purpose of Informal review
-An inexpensive way to get some benefit
+ii. **Post-execution comparison** is the other way, where the comparison is performed after the test has finished executing and the software under test is no longer running. Operating systems normally have file comparison tools available which can be used for post-execution comparison and often a comparison tool will be developed in-house for comparing a particular type of file or test result. Post-execution comparison is best for comparing a large volume of data, for example comparing the contents of an entire file with the expected contents of that file, or comparing a large set of records from a database with the expected content of those records. For example, comparing the result of a batch run (e.g. overnight processing of the day’s online transactions) is probably impossible to do without tool support
 
-144. What is the purpose of test design technique?
-Identifying test conditions and Identifying test cases
+## 142. Who is responsible for document all the issues, problems and open point that were identified during the review meeting
+**Ans** Scribe
 
-145. When testing a grade calculation system, a tester determines that all scores from 90 to 100 will yield a grade of A, but scores below 90 will not. This analysis is known as:
-Equivalence partitioning
+## 143. What is the main purpose of Informal review
+**Ans** An inexpensive way to get some benefit
 
-146. A test manager wants to use the resources available for the automated testing of a web application. The best choice is
-Tester, test automater, web specialist, DBA
+## 144. What is the purpose of test design technique?
+**Ans** Identifying test conditions and Identifying test cases
+
+## 145. When testing a grade calculation system, a tester determines that all scores from 90 to 100 will yield a grade of A, but scores below 90 will not. This analysis is known as:
+**Ans** Equivalence partitioning
+
+## 146. A test manager wants to use the resources available for the automated testing of a web application. The best choice is
+**Ans** Tester, test automater, web specialist, DBA
 
 ## 147. During the testing of a module tester, ‘X’ found a bug and assigned it to a developer. But developer rejects the same, saying that it’s not a bug. What ‘X’ should do?
 **Ans** Send the detailed information of the bug encountered and check the reproducibility
