@@ -682,17 +682,17 @@ Equivalence partitioning
 146. A test manager wants to use the resources available for the automated testing of a web application. The best choice is
 Tester, test automater, web specialist, DBA
 
-147. During the testing of a module tester, ‘X’ found a bug and assigned it to a developer. But developer rejects the same, saying that it’s not a bug. What ‘X’ should do?
-Send the detailed information of the bug encountered and check the reproducibility
+## 147. During the testing of a module tester, ‘X’ found a bug and assigned it to a developer. But developer rejects the same, saying that it’s not a bug. What ‘X’ should do?
+**Ans** Send the detailed information of the bug encountered and check the reproducibility
 
-148. A type of integration testing in which software elements, hardware elements, or both are combined all at once into a component or an overall system, rather than in stages.
-Big-Bang Testing
+## 148. A type of integration testing in which software elements, hardware elements, or both are combined all at once into a component or an overall system, rather than in stages.
+**Ans** Big-Bang Testing
 
-149. In practice, which Life Cycle model may have more, fewer or different levels of development and testing, depending on the project and the software product. For example, there may be component integration testing after component testing, and system integration testing after system testing.
-V-Model
+## 149. In practice, which Life Cycle model may have more, fewer or different levels of development and testing, depending on the project and the software product. For example, there may be component integration testing after component testing, and system integration testing after system testing.
+**Ans** V-Model
 
-150. Which technique can be used to achieve input and output coverage? It can be applied to human input, input via interfaces to a system, or interface parameters in integration testing.
-Equivalence partitioning
+## 150. Which technique can be used to achieve input and output coverage? It can be applied to human input, input via interfaces to a system, or interface parameters in integration testing.
+**Ans** Equivalence partitioning
 
 ## 151. “This life cycle model is driven by schedule and budget risks” This statement is best suited for.
 **Ans:** V-Model
