@@ -4,4 +4,4 @@
 
 ## [API Testing](./api-testing.md)
 
-## [Automation Tools](./automation-tools.md]
+## [Automation Tools](./automation-tools.md)
