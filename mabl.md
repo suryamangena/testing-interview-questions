@@ -1,5 +1,7 @@
 ## Mabl
-Mabl is an intelligent tool. Mabl addresses testing pain points speed, coverage and reliability.
+mabl is the leading intelligent test automation platform built for Agile teams. It is the only SaaS solution that tightly integrates automated end-to-end testing into the entire development lifecycle. With mabl creating, executing, and maintaining reliable tests has never been easier, allowing software teams to increase test coverage, speed up development and improve application quality.
+
+Mabl addresses testing pain points speed, coverage and reliability.
 1) Low Code. Easily create, run, and manage automated browser, API, and mobile web tests.
 2) In-Depth Results. Gain visibility with comprehensive test results that streamline issue resolution.
 3) API Testing. ...
@@ -30,8 +32,17 @@ You can define a set of parameters for a test, and run that test for each variat
 Similar to modular frameworks, you can define a flow, or set of steps, that you can reuse in multiple tests, or connect together to build a master test. If you ever need to update a flow, you can do so without it affecting the other flows, or the master test.
 
 
+
+## Mabl uses JavaScript 
+Using snippets we introduce the javascript code and tie to the test script. We can use synchronous and asynchronous code.
+
+## Cons
+Mabl is not always able to handle tricker elements in our UI, which requires us to write custom JS steps or reach to to their support.
+
+
 ## Disadvantages:
 They don’t have the same infinite flexibility as creating your own framework does, so if your application has complex edge cases, these types of tools might not be for your project. They’re also not open-source, so there is a subscription cost to consider.
+
 
 
 
