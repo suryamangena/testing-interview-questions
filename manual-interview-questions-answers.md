@@ -55,7 +55,7 @@ Integration testing
 System testing
 Acceptance testing
 
-## 12. [What is Integration testing?](./What is Integration Testing_ _ How to perform integration testing_ _ Edureka.pdf)
+## 12. [What is Integration testing?](./Integration-testing.pdf)
 **Ans** Integration testing is a level of software testing process, where individual units of an application are combined and tested. It is usually performed after unit and functional testing.
 
 ## 13. What Test Plans consists of?
