@@ -768,3 +768,7 @@ ii. **Post-execution comparison** is the other way, where the comparison is perf
 
 ## 159. What is Rapid Application Development?
 **Ans:** Rapid Application Development (RAD) is formally a parallel development of functions and subsequent integration. Components/functions are developed in parallel as if they were mini projects, the developments are time-boxed, delivered, and then assembled into a working prototype. This can very quickly give the customer something to see and use and to provide feedback regarding the delivery and their requirements. Rapid change and development of the product are possible using this methodology. However the product specification will need to be developed for the product at some point, and the project will need to be placed under more formal controls before going into production.
+
+## Smoke vs Sanity Testing?
+https://www.guru99.com/smoke-sanity-testing.html
+
